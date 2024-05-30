@@ -1,6 +1,9 @@
-# Ứng dụng nhắn tin real-time bằng ReactJs và Firebase 2024
+# Ứng dụng nhắn tin ✉️ real-time ⌚ bằng ReactJs và Firebase 2024
+
 Demo thực tế trên Vercel: https://chat-app-with-firebase-six.vercel.app/
-### Nguồn tham khảo: 
+
+### Nguồn tham khảo:
+
 youtube: https://youtu.be/YZhNUU4_Pjw
 
 # Cách sử dụng Create React App
@@ -31,3 +34,21 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+# Các chức năng trong trang web
+
+### 1. Đăng nhập bằng Google
+
+<img src="image_readme/login.png" alt="google login">
+
+### 2. Tạo nhóm chat
+
+<img src="image_readme/taonhom.png" alt="add room">
+
+### 3. Gửi tin nhắn
+
+<img src="image_readme/box_chat.png" alt="send message">
+
+### 4. Mời thành viên mới vào nhóm chat
+
+<img src="image_readme/invite.png" alt="invite members">
