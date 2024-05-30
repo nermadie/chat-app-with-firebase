@@ -1,3 +1,8 @@
+# Ứng dụng nhắn tin real-time bằng ReactJs và Firebase 2024
+Demo thực tế trên Vercel: https://chat-app-with-firebase-six.vercel.app/
+### Nguồn tham khảo: 
+youtube: https://youtu.be/YZhNUU4_Pjw
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
